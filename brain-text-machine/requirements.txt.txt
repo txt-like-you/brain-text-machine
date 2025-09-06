@@ -1,0 +1,6 @@
+torch
+gradio==4.16.0
+jieba
+tqdm
+scikit-learn
+numpy
